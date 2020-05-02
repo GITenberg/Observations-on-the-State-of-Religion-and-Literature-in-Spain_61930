@@ -1,0 +1,28 @@
+_repo: Observations-on-the-State-of-Religion-and-Literature-in-Spain_61930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bowring, John
+    birthdate: 1792
+    deathdate: 1872
+    gutenberg_agent_id: '24984'
+    url: http://www.gutenberg.org/2009/agents/24984
+    wikipedia: https://en.wikipedia.org/wiki/John_Bowring
+description: ''
+gutenberg_issued: '2020-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcsh 'Catholic Church -- Spain'
+- !lcsh 'Spain -- Religion'
+- !lcc 'DP'
+- !lcsh 'Spanish literature -- 19th century -- History and criticism'
+- GITenberg
+title: Observations on the State of Religion and Literature in Spain
+url: http://www.gutenberg.org/ebooks/61930
